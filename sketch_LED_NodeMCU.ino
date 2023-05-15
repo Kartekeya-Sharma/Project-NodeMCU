@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "RVU";    //  Your Wi-Fi Name
+const char* ssid = "realme 9 5G Speed Edition";    //  Your Wi-Fi Name
 
-const char* password = "RVU@guru";   // Wi-Fi Password
+const char* password = "swamisux";   // Wi-Fi Password
  
 int ledPin = 13; // GPIO13
 WiFiServer server(80);
