@@ -18,3 +18,5 @@ Step 6: Connect your laptop to your mobile hotspot>Change ssid & password here
 Step 7: Serial monitor>set baud rate to 115200 Baud\
 Step 8: Run the program!\
 Step 9: Copy/paste the IP address to your mobile browser
+        ![image](https://github.com/Kartekeya-Sharma/Project-NodeMCU/assets/110166739/b13c1097-1806-4598-82c7-df13e0ae956d)
+
