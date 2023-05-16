@@ -9,5 +9,5 @@ Step 2: Run CH341SER.EXE (first click "Uninstall" then "Install"\
 Step 3: Arduino IDE>File>Preferences>  
         ![image](https://github.com/Kartekeya-Sharma/Project-NodeMCU/assets/110166739/98ff56e3-d88a-4298-a5bf-b186a98e2a7a)
 
-        Paste this: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+        http://arduino.esp8266.com/stable/package_esp8266com_index.json
 Step 4: 
