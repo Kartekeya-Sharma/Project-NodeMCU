@@ -10,4 +10,5 @@ Step 3: Arduino IDE>File>Preferences>
         ![image](https://github.com/Kartekeya-Sharma/Project-NodeMCU/assets/110166739/98ff56e3-d88a-4298-a5bf-b186a98e2a7a)
 
         http://arduino.esp8266.com/stable/package_esp8266com_index.json
-Step 4: 
+
+Step 4: Boards Manager>Search "node">Download
