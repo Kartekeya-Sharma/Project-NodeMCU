@@ -12,7 +12,9 @@ Step 3: Arduino IDE>File>Preferences>Additional boards manager URLs
         http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Step 4: Boards Manager>Search "node">Download\
-Step 5: Paste sketch_LED_NodeMCU.ino code\
+Step 5: Copy/paste sketch_LED_NodeMCU.ino code\
 Step 6: Connect your laptop to your mobile hotspot>Change ssid & password here
         ![image](https://github.com/Kartekeya-Sharma/Project-NodeMCU/assets/110166739/d5330737-cf78-444d-ad6d-8736418c6111)
-
+Step 7: Serial monitor>set baud rate to 115200 Baud\
+Step 8: Run the program!\
+Step 9: Copy/paste the IP address to your mobile browser
