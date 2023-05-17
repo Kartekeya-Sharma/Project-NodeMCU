@@ -7,7 +7,8 @@ CH341ser link: https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers
 Step 1: Download the file in ZIP format\
 Step 2: Run CH341SER.EXE (first click "Uninstall" then "Install")\
 Step 3: Arduino IDE>File>Preferences>Additional boards manager URLs  
-        ![image](https://github.com/Kartekeya-Sharma/Project-NodeMCU/assets/110166739/98ff56e3-d88a-4298-a5bf-b186a98e2a7a)
+        ![image](https://github.com/Kartekeya-Sharma/Project-NodeMCU/assets/110166739/e39a73a7-da1b-48a8-8f30-eb295fe863eb)
+        \
 
         http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
